@@ -6,7 +6,7 @@
   "devDependencies": {
     "cross-env": "^5.1.4",
     "gh-pages": "^3.2.0",
-    "react-scripts": "1.1.1"
+    "react-scripts": "5.0.1"
   },
   "dependencies": {
     "history": "^4.6.3",
