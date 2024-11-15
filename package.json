@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "history": "^4.6.3",
-    "marked": "^4.3.0",
+    "marked": "^15.0.0",
     "prop-types": "^15.5.10",
     "react": "^16.3.0",
     "react-dom": "^16.3.0",
